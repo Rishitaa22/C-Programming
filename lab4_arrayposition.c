@@ -1,7 +1,7 @@
 /*
 Name: Rishita
 Date: 29/01/25
-Purpose: To find the largest among three numbers using nested if statements.
+Purpose: To find the position of elements.
 */
 #include<stdio.h>
 int main(){
