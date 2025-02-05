@@ -1,6 +1,6 @@
 /*
 Name: Rishita
-Date: 29/01/25
+Date: 05/02/25
 Purpose: To find the position of elements.
 */
 #include<stdio.h>
