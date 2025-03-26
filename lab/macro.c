@@ -1,6 +1,6 @@
 /* . Using Macros: Define a macro for the value of π (PI = 3.14159) and write a program to calculate the area of a circle and a cylinder. Use macros for constant values. */
 #include<stdio.h>
-#define n 3.14
+#define n 3.14159
 int main(){
   int rCircle, rCyl, hCyl;
   float areaC, areaCyl;
